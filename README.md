@@ -28,9 +28,9 @@
 <details open="open">
     <summary>Table of Contents</summary>
     <ol>
-        <li><a href="#introduce">Giới thiệu</a></li>
-        <li><a href="#Installation">Hướng dẫn cài đặt</a></li>
-        <li><a href="#contributing">Contributing</a></li>
+        <li><a href="#introduce">Introduce</a></li>
+        <li><a href="#Installation">Installation</a></li>
+        <li><a href="#contributing">contributing</a></li>
         <li><a href="#license">License</a></li>
         <li><a href="#contact">Contact</a></li>
     </ol>
@@ -38,10 +38,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## introduce
-<p><strong>MIRAIPROJECT LÀ GÌ?</strong></p>
+<p><strong>WHAT IS MIRAIPROJECT?</strong></p>
 <br />
 <p>
-<strong>MiraiProject</strong> thật chất là một dự án mang đến Messenger một trải nghiệm mới cho người dùng bằng cách xây dựng một hệ thống bot dành riêng cho messenger facebook. Dự án này được <strong>Catalizcs</strong>(Founder) và <strong>SpermLord</strong>(Co-Founder) xây dựng và duy trì.
+<strong>MiraiProject</strong> is essentially a project to bring Messenger a new experience to users by building a bot system specifically for facebook messenger. This project is <strong>Catalizcs</strong>(Founder) và <strong>SpermLord</strong>(Co-Founder) xây dựng và duy trì.
 </p>
 
 ![miraiv2-product](https://miraiproject.tk/images/demo.png)
